@@ -21,12 +21,5 @@ Wanna explore even more projects? Check out my GitHub [GitHub repositories](link
 ## 📫 Reach Out and Let's Rock!
 Want to team up on a project or just have a chat about the mysteries of the universe? You can find me on:
 
-- [LinkedIn]((https://www.linkedin.com/in/veselin-metodiev-4936331a8/) Feel free to reach out anytime! Let's rock the coding universe together! 🚀
-
-## 🌟 Fun Facts: Trivia 
-Prepare to be enchanted by these fun facts about me:
-
-- [Fun Fact 1] – I once turned a cup of coffee into a bug-free code with a single wave of my keyboard.
-- [Fun Fact 2] – I can speak Parseltongue, but only to coax stubborn code snippets out of hiding.
-- [Fun Fact 3] – I have a secret talent for predicting the future...of technology trends!
+- [LinkedIn](https://www.linkedin.com/in/veselin-metodiev-4936331a8/) Feel free to reach out anytime! Let's rock the coding universe together! 🚀
 
